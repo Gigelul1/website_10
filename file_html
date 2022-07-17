@@ -1,0 +1,13 @@
+<h1>👋 Hello World!</h1>
+
+<input type="button" onclick="fnv()" value="click">
+
+<p id="par"></p> <br><br>
+
+<label for="tx1">introduceti o valoare</label>
+
+<input type="text" id="tx1"><br>
+
+<input type="button" id="bt2" onclick ="fnd0()" value="Rezultat"><br>
+
+<p id="par2"></p>
