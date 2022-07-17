@@ -1,0 +1,9 @@
+function fnv () {
+document.getElementById("par").innerHTML="Contact: 0765 450 719";
+}
+
+function fnd0 () {
+let x = document.getElementById("tx1").value;
+let y = x*8;
+document.getElementById("par2").innerHTML=y
+}
